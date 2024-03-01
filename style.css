@@ -1,0 +1,5 @@
+body{
+    text-align: justify;width: 60%;
+    background-color: aquamarine;
+        background-image: linear-gradient(135deg, rgba(255,255,255) 0%, rgb(182, 246, 255)100%);
+}
